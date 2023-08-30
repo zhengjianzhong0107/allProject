@@ -31,7 +31,7 @@
 | 025  | [springboot+vue 电影票会员管理系统 （有文档）](https://github.com/ynwynw/cinema-public) | https://github.com/ynwynw/cinema-public                      |
 | 026  | [Spring Boot + Thymeleaf 实现的招聘网站](https://github.com/ynwynw/springboot-recruit-public) | https://github.com/ynwynw/springboot-recruit-public          |
 | 027  | [Spring Boot 大学生社团管理系统](https://github.com/ynwynw/association-public) | https://github.com/ynwynw/association-public                 |
-| 028  | [Spring Boot + vue 校园二手交易平台 带文档-项目启动不了]()   |                                                              |
+| 028  | [Spring Boot + vue 校园二手交易平台 带文档]()   |                                                              |
 | 029  | [Spring Boot 会议室预约管理系统（系统简单）](E:/\educationProject\会议室预约系统\conference_room-master) |                                                              |
 | 030  | [Spring Boot +vue在线考试系统(源码+数据库+12000字文档)](https://github.com/ynwynw/carRental-public) | https://github.com/ynwynw/exam-public                        |
 | 031  | [springboot俱乐部管理系统（简单系统）](E:/\educationProject\俱乐部系统\clubmanagement-master) |                                                              |
